@@ -23,6 +23,7 @@ class Cord implements Comparable<Cord> {
     }
 }
 
+// 2차원 배열 부터는 계수 정렬 보다 Arrays.sort가 더 빠르다.
 public class Q11650 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
