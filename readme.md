@@ -3,4 +3,4 @@
 코테 너무 어렵다...<br>
 빨리 탈출하고 싶다...<br>
 하루에 대충 5문제 정도씩 푸는걸 목표로 하고있다.
-> 2025-01-12: [solved.ac](https://solved.ac/) **Class 2** 진행중
+> 2025-01-12: [solved.ac](https://solved.ac/) **Class 2+** 달성!!
