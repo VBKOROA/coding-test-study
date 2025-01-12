@@ -11,6 +11,8 @@ class Cord implements Comparable<Cord> {
         this.y = y;
     }
 
+    // 양의 정수일때는 매게변수로 받은 객체랑 자리를 바꾼다
+    // 라는 식으로 외웠음.
     @Override
     public int compareTo(Cord o) {
         return this.x == o.x ? this.y - o.y : this.x - o.x;
