@@ -20,6 +20,6 @@ public class Q1927 {
                 pq.offer(input);
             }
         }
-        System.out.print(sb);
+        System.out.println(sb);
     }
 }
