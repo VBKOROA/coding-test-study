@@ -6,3 +6,5 @@
 ## [solved.ac](https://solved.ac/)
 > 2025-01-12: **Class 2+** 달성!!<br>
 > 2025-01-12: **Class 3** 도전중...
+## [프로그래머스](https://programmers.co.kr/)
+> 2025-01-16 고득점 Kit의 **해시** 격파!
